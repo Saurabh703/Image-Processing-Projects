@@ -1,9 +1,3 @@
-"""
-Author  -  Nishant
-"""
-
-
-
 #Step - 1 - Load Libraries and Image
 #Step - 2 - Converte Image into Gray Scale
 #Step - 3 - Inveted Gary Scale Image [For Shifting toward selected channel] 
